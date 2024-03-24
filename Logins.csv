@@ -1,0 +1,24 @@
+Login Date,IP Address,User Agent,Login Type
+Mon Mar 28 14:17:11 UTC 2022,2409:4071:4e89:be40:0:0:b30b:df0a,"Mozilla/5.0 (Linux; Android 11; motorola one action) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.73 Mobile Safari/537.36",Login
+Tue Mar 29 06:57:47 UTC 2022,2409:4071:4d07:1775:0:0:b34b:870a,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.679 motorola_motorola one action:android_11,Login
+Sat Sep 10 20:07:11 UTC 2022,2405:201:d017:805e:95f0:fe77:4b74:dc61,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.729 motorola_motorola one action:android_11,Login
+Tue Oct 04 22:33:46 UTC 2022,2405:201:d017:805e:9c28:bcff:cb94:3199,"Mozilla/5.0 (Linux; Android 11; motorola one action) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36",Login
+Mon Oct 31 15:36:26 UTC 2022,2401:4900:3da5:1c86:0:0:1029:7cdb,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.742 motorola_motorola one action:android_11,Login
+Fri Dec 02 20:18:53 UTC 2022,2405:201:d017:80e1:864:147:2695:a3d6,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.762 motorola_motorola one action:android_11,Login
+Wed Dec 07 14:59:19 UTC 2022,2405:201:d017:80e1:9c49:5dde:d89c:4b97,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",Login
+Thu Dec 08 14:18:40 UTC 2022,2405:201:d017:80e1:2882:6a1f:d294:d3c2,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",Login
+Fri Dec 16 11:32:21 UTC 2022,2409:4071:211c:c870:542e:2d6c:20e5:fb8f,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",Login
+Tue Jan 03 16:42:11 UTC 2023,2405:201:d017:8096:b4de:bcc8:377a:a30b,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.766.1 motorola_motorola one action:android_11,Login
+Tue Jan 03 21:05:46 UTC 2023,2405:201:d017:8096:b4de:bcc8:377a:a30b,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.766.1 motorola_motorola one action:android_11,Login
+Sun Jan 29 15:44:59 UTC 2023,2405:201:d017:8096:542a:428e:64dc:2060,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",Login
+Fri Apr 21 06:40:05 UTC 2023,27.7.182.191,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",Login
+Tue May 02 12:48:26 UTC 2023,116.75.101.236,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",Login
+Fri Aug 25 16:16:55 UTC 2023,106.206.28.213,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.850 motorola_motorola one action:android_11,Login
+Sun Oct 08 07:59:33 UTC 2023,2409:4062:2d98:9ca:0:0:b30b:a40d,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.868.1 motorola_moto g54 5G:android_13,Login
+Sun Oct 08 07:59:34 UTC 2023,2409:4062:2d98:9ca:0:0:b30b:a40d,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.868.1 motorola_moto g54 5G:android_13,Login
+Wed Oct 18 13:43:40 UTC 2023,2409:4062:2e0d:3087:3a1a:3054:cb73:264,"Mozilla/5.0 (Linux; Android 13; moto g54 5G Build/T3TD33.16-22-5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.116 Mobile Safari/537.36",Login
+Wed Nov 01 18:25:36 UTC 2023,2405:201:d044:6829:945b:9c23:3205:bfc7,"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36",Login
+Fri Nov 03 20:12:13 UTC 2023,2405:201:d044:6829:9182:493a:211c:6e58,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",Login
+Mon Feb 19 10:23:05 UTC 2024,2409:40f4:29:ef6e:8000:0:0:0,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.909.1 motorola_moto g54 5G:android_13,Login
+Fri Mar 01 17:05:07 UTC 2024,27.5.76.147,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",Login
+Tue Mar 12 08:48:15 UTC 2024,14.98.237.66,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",Login
